@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 # react_js_projects
-this repository is all about react learnings and projects
-=======
+- this repository is all about react learnings and projects
 ## Conditional rendering 
 
 - Rendering is based on some condition.
@@ -13,4 +12,4 @@ this repository is all about react learnings and projects
 2) tertinary operation
 3) Logical operation
 4) early retrun
->>>>>>> dafaa11 (Initial commit)
+
